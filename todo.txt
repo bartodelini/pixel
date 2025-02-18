@@ -1,0 +1,8 @@
+[?] add line rendering
+[x] add blending
+[ ] add mip mapping
+[ ] add 7th clip plane
+[ ] show alpha clip
+[x] add sprites for different light sources
+[?] geometry shader takes in primitive and outputs primitive (primitive can be a triangle or line)
+[x] fix asset loader to enable adding of entities before assets are loaded
